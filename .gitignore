@@ -1,2 +1,26 @@
-.idea
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Binaries
+/bin/
+/build/
+simple-blockchain
